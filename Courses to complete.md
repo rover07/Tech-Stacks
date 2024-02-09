@@ -1,9 +1,62 @@
-My Youtube Playlist
-
-
+- [Youtube Playlist-Courses 2 Complete](https://youtube.com/playlist?list=PL9AedAKNmDw0n9D62oXHsJcHuCRmor5N-&si=rdVmZHO6oqM9nixS)
 ## Complete these first!!
+
+- https://www.coursera.org/specializations/oss-development-linux-git
+- https://app.amigoscode.com/courses/855076/lectures/16002822 this is amigoscode linux course
+- https://www.scaler.com/topics/course/nodejs/
+- https://www.scaler.com/topics/course/javascript-beginners/
+- https://www.kgcoding.in/s/store/courses/Web%20Development
+- https://youtu.be/l32UR9DcjLg?si=RWj21CfY8yJeK84J
+- https://developers.google.com/machine-learning/crash-course/ml-intro?authuser=2
+- https://university.atlassian.com/student/catalog
+- https://university.atlassian.com/student/path/1586627
+- https://trainingportal.linuxfoundation.org/learn/course/introduction-to-gitops-lfs169/gitops-in-action/demonstrating-the-power-of-gitops-in-action
+- https://trainingportal.linuxfoundation.org/learn/course/ethics-for-open-source-development-lfc104/introduction/course-information?page=2
+- https://trainingportal.linuxfoundation.org/learn/course/creating-effective-documentation-for-developers-lfc112/course-introduction/course-information
+- https://trainingportal.linuxfoundation.org/learn/course/open-source-technical-documentation-essentials-lfc111/course-introduction/course-information
+- https://trainingportal.linuxfoundation.org/learn/course/owasp-top-10-security-threats-skf100/course-introduction/course-information
+- https://trainingportal.linuxfoundation.org/learn/course/cybersecurity-essentials-lfc108/course-introduction/course-information
+- https://trainingportal.linuxfoundation.org/learn/course/green-software-for-practitioners-lfc131/introduction/welcome-to-lfc131
+- https://trainingportal.linuxfoundation.org/learn/course/fundamentals-of-quantum-computing-lfq101/course-introduction/about-this-course
+- https://trainingportal.linuxfoundation.org/learn/course/developing-secure-software-lfd121/introduction/course-information
+- https://trainingportal.linuxfoundation.org/learn/course/introduction-to-open-source-license-compliance-management-lfc193/course-introduction/course-information
+- https://trainingportal.linuxfoundation.org/learn/course/inclusive-strategies-for-open-source-lfc103/course-introduction/course-information
+- https://trainingportal.linuxfoundation.org/learn/course/fundamentals-of-professional-open-source-management-lfc110/introduction/course-information
+- https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-linux-kernel-development-lfd103/course-introduction/course-information
+- https://trainingportal.linuxfoundation.org/learn/course/licensing-basics-for-developers-lfc191/course-introduction/course-information
+- https://progate.com/courses/es6
+- https://progate.com/courses/go
+- https://progate.com/courses/nodejs
+- https://progate.com/courses/react
+- https://progate.com/courses/sass
+- https://progate.com/courses/commandline
+- https://progate.com/courses/html
+
+## Might Complete these later. 
 - https://www.freecodecamp.org/learn/the-odin-project/
 - https://www.freecodecamp.org/learn/front-end-development-libraries/
 - https://www.freecodecamp.org/learn/back-end-development-and-apis/
 - https://www.freecodecamp.org/learn/2022/responsive-web-design/
 - [A2 English for Developers](https://www.freecodecamp.org/learn/a2-english-for-developers/#learn-greetings-in-your-first-day-at-the-office) 
+- https://www.scaler.com/topics/course/free-react-js-course/
+- https://www.scaler.com/topics/course/javascript-beginners/video/242/
+- https://www.coursera.org/professional-certificates/backend-javascript-developer
+- https://www.coursera.org/professional-certificates/meta-back-end-developer
+- https://www.coursera.org/learn/introduction-to-web-development-with-html-css-javacript
+- https://www.coursera.org/professional-certificates/meta-front-end-developer
+- https://www.coursera.org/learn/html-css-javascript-for-web-developers
+- https://www.coursera.org/professional-certificates/ibm-backend-development
+- https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer
+- https://fireship.io/courses
+- [Linux Fundamentals by HackTheBox](https://academy.hackthebox.com/course/preview/linux-fundamentals
+- https://www.coursera.org/professional-certificates/devops-and-software-engineering
+- https://www.coursera.org/specializations/machine-learning-introduction
+- https://www.theforage.com/dashboard
+- https://learn.deeplearning.ai/login?redirect_course=chatgpt-prompt-eng
+- https://developers.google.com/machine-learning/crash-course/ml-intro?authuser=2
+- https://www.hackerrank.com/skills-verification
+- https://academy.postman.com/page/course-catalog
+- https://university.atlassian.com/student/path/1586627
+- https://university.atlassian.com/student/catalog
+- https://developers.google.com/machine-learning/crash-course/ml-intro?authuser=2
+- https://www.coursera.org/professional-certificates/devops-and-software-engineering

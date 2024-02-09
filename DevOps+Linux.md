@@ -77,6 +77,7 @@
 # **Linux**
 
 [**](https://infinite.education/skillset/linux_administrator)[https://infinite.education/skillset/linux_administrator**](https://infinite.education/skillset/linux_administrator**)
+[linuxSkillupChallengeOnReddit](https://www.reddit.com/r/linuxupskillchallenge/)
 [**](https://www.gnu.org/home.en.html)[https://www.gnu.org/home.en.html**](https://www.gnu.org/home.en.html**)
 [**](https://console.cloud.google.com/getting-started?pli=1&cloudshell=false)[https://console.cloud.google.com/getting-started?pli=1&cloudshell=false**](https://console.cloud.google.com/getting-started?pli=1&cloudshell=false**)
 

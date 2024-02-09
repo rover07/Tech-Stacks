@@ -1,3 +1,5 @@
+Cohort 2 Resources:[Gist for JS answer](https://gist.github.com/hkirat/898ac1da32b6b347a8c0c3e73e1c0666) | [Assignments](https://github.com/100xdevs-cohort-2/assignments) + [Answer(maybe)](https://github.com/HarshDev56/100xDevs_MERN_assignments/tree/master) | [Doodstream](https://ds2play.com/f/9wpgnfmhar) | [Notes |](/6b6c2a9f1282499aba4782b88bf7e204?pvs=25) [JS Roadmap](https://whimsical.com/js-basics-roadmap-HxsoYtVkawZbjC1gcy61Cc) [](/6b6c2a9f1282499aba4782b88bf7e204?pvs=25)(NEXT LINE) Delta Resources: [Delta repo](https://github.com/apna-college?tab=repositories) | [Delta Projects Repo](https://github.com/apna-college/Delta-Projects)
+
 ## UI stuffs
 [Shadcn UI course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h1NXLUuiAQ7c4UtdEInqma)
 [Shadcn DOCS](https://ui.shadcn.com/)
@@ -46,6 +48,9 @@
 - [**](https://flexboxfroggy.com/)[https://flexboxfroggy.com/**](https://flexboxfroggy.com/**)
 - **CodeDamn for projects: [https://codedamn.com/projects**](https://codedamn.com/projects**)
 - [SASS Tutorial (Build Your Own CSS Library)](https://youtube.com/playlist?list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb&si=h2YnMIFcskwR5wmN)
+- [JS ES6 Promises](/b91e21a87dc64425844c397846e988d2?pvs=25) 
+- [NO BS TS](https://youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n&si=x_JwNvIHkUNinwB8) 
+- [React tutorial for beginners](https://youtube.com/playlist?list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK&si=qgMVEEd-Z48OIEU3)
 
 
 # **Youtube Channels**

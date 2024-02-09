@@ -21,3 +21,4 @@
 - Learn UX at $0 in English [https://youtube.com/playlist?list=PLlHtucAD9KT3wgeeVqILeW-0rYoQgR1Rh](https://youtube.com/playlist?list=PLlHtucAD9KT3wgeeVqILeW-0rYoQgR1Rh)
 - Springboard Free UX Design Course: [https://www.springboard.com/resources/learning-paths/user-experience-design/#50733-getting-started](https://www.springboard.com/resources/learning-paths/user-experience-design/#50733-getting-started)
 - My UI/UX playlist: [https://youtube.com/playlist?list=PL9AedAKNmDw1QirSxzAGrVU6iLiWVs6hu&si=vFqO7uSoC_gmw2RR](https://youtube.com/playlist?list=PL9AedAKNmDw1QirSxzAGrVU6iLiWVs6hu&si=vFqO7uSoC_gmw2RR)
+- [ AWWWARDS awards for best Web Designs](https://www.awwwards.com/)

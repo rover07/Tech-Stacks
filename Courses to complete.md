@@ -60,3 +60,6 @@
 - https://university.atlassian.com/student/catalog
 - https://developers.google.com/machine-learning/crash-course/ml-intro?authuser=2
 - https://www.coursera.org/professional-certificates/devops-and-software-engineering
+- https://www.ibm.com/design/thinking/page/courses/Practitioner
+- Cisco Networking Basics
+- Cisco Operating Systems

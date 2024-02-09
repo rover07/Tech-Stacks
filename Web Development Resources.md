@@ -8,18 +8,18 @@ Cohort 2 Resources:[Gist for JS answer](https://gist.github.com/hkirat/898ac1da3
 [React Material UI Tutorial](https://youtube.com/playlist?list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO&si=vjwoqytf4-T8BUn4)
 [Tailwind Hitesh](https://youtube.com/playlist?list=PLu71SKxNbfoBLTxvkUIvy3_VR-vZK6Eq7&si=lhZuhAaRt44Yn1L4)
 
+## Design
+[Pinterest](https://www.pinterest.com/dnacreativeshoppe/website-design/)
+[CodePen](https://codepen.io/)
+[Google Fonts](https://fonts.google.com/specimen/Poppins)
+
 # **Roadmaps**
 
 [**](https://github.com/WeMakeDevs/roadmaps/tree/main/Frontend-Development)[https://github.com/WeMakeDevs/roadmaps/tree/main/Frontend-Development**](https://github.com/WeMakeDevs/roadmaps/tree/main/Frontend-Development**)
-
 [**](https://github.com/WeMakeDevs/roadmaps/tree/main/Backend-Development)[https://github.com/WeMakeDevs/roadmaps/tree/main/Backend-Development**](https://github.com/WeMakeDevs/roadmaps/tree/main/Backend-Development**)
-
 [**](https://github.com/WeMakeDevs/roadmaps/tree/main/Fullstack-Development)[https://github.com/WeMakeDevs/roadmaps/tree/main/Fullstack-Development**](https://github.com/WeMakeDevs/roadmaps/tree/main/Fullstack-Development**)
-
 [**](https://roadmap.sh/frontend)[https://roadmap.sh/frontend**](https://roadmap.sh/frontend**)
-
 [**](https://roadmap.sh/backend)[https://roadmap.sh/backend**](https://roadmap.sh/backend**)
-
 [**](https://roadmap.sh/full-stack)[https://roadmap.sh/full-stack**](https://roadmap.sh/full-stack**)
 
 # **Resources**

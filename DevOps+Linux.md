@@ -69,35 +69,24 @@
 # **KodeKloud Courses**
 
 [**Hacksnation for further course updates**](https://hacksnation.com/d/11593-kodekloud-courses-available/44)
-
 [**](https://drive.google.com/drive/folders/1S6saw_qYsqLRGZ3G5KFJ9obuX7oFu4PW)[https://drive.google.com/drive/folders/1S6saw_qYsqLRGZ3G5KFJ9obuX7oFu4PW**](https://drive.google.com/drive/folders/1S6saw_qYsqLRGZ3G5KFJ9obuX7oFu4PW**)
-
 [**](https://drive.google.com/drive/folders/1b_WFKDVtKTV2VIcC017KL8HxcG7E4Wif)[https://drive.google.com/drive/folders/1b_WFKDVtKTV2VIcC017KL8HxcG7E4Wif**](https://drive.google.com/drive/folders/1b_WFKDVtKTV2VIcC017KL8HxcG7E4Wif**)
-
 [**](https://drive.google.com/drive/folders/15UBCDD79Sr_rVxjiufzLaNidqDLAzjby)[https://drive.google.com/drive/folders/15UBCDD79Sr_rVxjiufzLaNidqDLAzjby**](https://drive.google.com/drive/folders/15UBCDD79Sr_rVxjiufzLaNidqDLAzjby**)
-
 [**](https://drive.google.com/drive/folders/1V83FbVANhrTAtKie9nsdMFs1b40qvMlz)[https://drive.google.com/drive/folders/1V83FbVANhrTAtKie9nsdMFs1b40qvMlz**](https://drive.google.com/drive/folders/1V83FbVANhrTAtKie9nsdMFs1b40qvMlz**)
 
 # **Linux**
 
 [**](https://infinite.education/skillset/linux_administrator)[https://infinite.education/skillset/linux_administrator**](https://infinite.education/skillset/linux_administrator**)
-
 [**](https://www.gnu.org/home.en.html)[https://www.gnu.org/home.en.html**](https://www.gnu.org/home.en.html**)
-
 [**](https://console.cloud.google.com/getting-started?pli=1&cloudshell=false)[https://console.cloud.google.com/getting-started?pli=1&cloudshell=false**](https://console.cloud.google.com/getting-started?pli=1&cloudshell=false**)
 
 **Killerkoda**
-
 [**](https://ubuntu.com/tutorials)[https://ubuntu.com/tutorials**](https://ubuntu.com/tutorials**)
-
 [**](https://discourse.ubuntu.com/t/translations/32?_ga=2.76895120.421034926.1692985535-87418759.1692985535)[https://discourse.ubuntu.com/t/translations/32?_ga=2.76895120.421034926.1692985535-87418759.1692985535**](https://discourse.ubuntu.com/t/translations/32?_ga=2.76895120.421034926.1692985535-87418759.1692985535**)
-
 [**](https://ubuntu.com/community/locos?_ga=2.76895120.421034926.1692985535-87418759.1692985535)[https://ubuntu.com/community/locos?_ga=2.76895120.421034926.1692985535-87418759.1692985535**](https://ubuntu.com/community/locos?_ga=2.76895120.421034926.1692985535-87418759.1692985535**)
-
 [**](https://stackexchange.com/)[https://stackexchange.com/**](https://stackexchange.com/**)
-
 [**](https://cloud.google.com/shell)[https://cloud.google.com/shell**](https://cloud.google.com/shell**)
-
 [**](https://www.onworks.net/os-distributions/ubuntu-based/free-ubuntu-online-version-20)[https://www.onworks.net/os-distributions/ubuntu-based/free-ubuntu-online-version-20**](https://www.onworks.net/os-distributions/ubuntu-based/free-ubuntu-online-version-20**)
 
 [**linux customizations Playlist**](https://youtube.com/playlist?list=PL9AedAKNmDw2lHqvI5YzqUWX1bkRzOx3s&si=ciIaKndBO1fuJEN9)
+[VIM state diagram](https://rawgit.com/darcyparker/1886716/raw/vimModeStateDiagram.svg)

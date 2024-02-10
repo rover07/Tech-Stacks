@@ -12,6 +12,13 @@ I have only included stuffs important to me and rest of the stuffs are in Gdocs:
 - [https://takeuforward.org/operating-https://youtu.be/5mEwh4MfwB4?si=WbPDS6k8UhjqFn7system/most-asked-operating-system-interview-questions/](https://takeuforward.org/operating-system/most-asked-operating-system-interview-questions/)
 - [https://takeuforward.org/computer-network/most-asked-computer-networks-interview-questions/](https://takeuforward.org/computer-network/most-asked-computer-networks-interview-questions/)
 
+- ### Notes
+
+	- [Computer Networking Notes for Tech Placements .pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/80fadc12-4064-438c-9a8c-8e4a42c1d953/0806c67d-916c-41d3-936f-3e76eb636587/Computer_Networking_Notes_for_Tech_Placements_(1).pdf)
+	- [DBMS_Notes (2).pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/80fadc12-4064-438c-9a8c-8e4a42c1d953/04329a7c-51f7-4db0-b57b-5828117ebda7/DBMS_Notes_(2).pdf)
+	- [Object Oriented Programming (1) (1).pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/80fadc12-4064-438c-9a8c-8e4a42c1d953/53a8af39-a290-4efe-994e-83dacd2c1f00/Object_Oriented_Programming_(1)_(1).pdf)
+	- [Operating System Notes.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/80fadc12-4064-438c-9a8c-8e4a42c1d953/1be6cca3-cf77-409e-8c5c-bea4b9ab6c1c/Operating_System_Notes.pdf)
+
 
 - #### Aptitude:
 - [𝗽𝗿𝗲𝗽𝗶𝗻𝘀𝘁𝗮](https://prepinsta.com/learn-aptitude/)
@@ -25,6 +32,7 @@ I have only included stuffs important to me and rest of the stuffs are in Gdocs:
 - [50 Most Common Interview Questions and Answers in HR round](https://career.guru99.com/how-to-answer-50-most-common-interview-questions/)
 - [HR Interview Questions and Answers](https://www.indiabix.com/hr-interview/questions-and-answers/)
 
+	
 ### JOB SECTION
 #### Intern/Job Portals:
 - [Career pages of 50 high paying MNC’s](https://docs.google.com/document/u/0/d/1VBeLEr7u-FSIJ7Kzi0xm4ilKfsU2yvk8Lw8KAJiOXFg/mobilebasic)

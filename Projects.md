@@ -5,6 +5,9 @@
 - **Boxrap**
 - **Food wastage app**
 - **Plant disease app**
+- **Colorblind Extension Chrome/VS code**
+- **Neetcode.io like clone**
+- Resource portal like the one you're reading right now.
 
 # **Learn By Building**
 

@@ -1,5 +1,10 @@
 # Contests
 Check contests from here: [DIGITOMIZE(contains all upcoming contests)](https://digitomize.com/contests) |  [CODECHEF](https://www.codechef.com/contests?itm_medium=navmenu&itm_campaign=allcontests) | [CODEFORCES](https://codeforces.com/contests) | [LEETCODE](https://leetcode.com/contest/) | [HACKEREARTH](https://www.hackerearth.com/challenges/) | [HACKERRANK](https://www.hackerrank.com/contests) | [GFG](https://practice.geeksforgeeks.org/events?utm_source=geeksforgeeks&utm_medium=main_header&utm_campaign=contests) | [CODESTUDIO](https://www.codingninjas.com/studio/contests)
+
+# DSA Gawd course
+- [MIT 6.006 Introduction to Algorithms, Fall 2011](https://youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&si=DqYgBcZMP4f7Xhep
+)
+-  [MIT 6.006 Introduction to Algorithms, Spring 2020](https://youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY&si=jxZCT04dJ1i9gYEm)
 # Sheets
 
 [Babbar DSA Cracker](https://450dsa.com/)

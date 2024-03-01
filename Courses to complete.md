@@ -1,5 +1,6 @@
 - [Youtube Playlist-Courses 2 Complete](https://youtube.com/playlist?list=PL9AedAKNmDw0n9D62oXHsJcHuCRmor5N-&si=rdVmZHO6oqM9nixS)
 ## Complete these first!!
+- https://learn.microsoft.com/en-us/collections/o1njfe825p602p
 - https://learn.microsoft.com/en-us/
 - https://learn.microsoft.com/en-us/training/courses/ai-900t00?wt.mc_id=studentamb_319281
 - https://learn.microsoft.com/en-us/training/courses/az-900t00?wt.mc_id=studentamb_319281

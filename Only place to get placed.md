@@ -35,6 +35,7 @@ I have only included stuffs important to me and rest of the stuffs are in Gdocs:
 	
 ### JOB SECTION
 #### Intern/Job Portals:
+- https://simplify.jobs/l/Top-Summer-Internships
 - https://www.roc8.careers/moonshot
 - https://nextlevel.app/
 - https://www.hackerrank.com/skills-verification

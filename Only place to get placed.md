@@ -35,6 +35,9 @@ I have only included stuffs important to me and rest of the stuffs are in Gdocs:
 	
 ### JOB SECTION
 #### Intern/Job Portals:
+- https://www.roc8.careers/moonshot
+- https://nextlevel.app/
+- https://www.hackerrank.com/skills-verification
 - [Career pages of 50 high paying MNC’s](https://docs.google.com/document/u/0/d/1VBeLEr7u-FSIJ7Kzi0xm4ilKfsU2yvk8Lw8KAJiOXFg/mobilebasic)
 - https://careerlab.mlh.io/
 - https://www.workatastartup.com/
@@ -62,6 +65,7 @@ I have only included stuffs important to me and rest of the stuffs are in Gdocs:
 - [https://japan-dev.com/jobs](https://japan-dev.com/jobs)
 - [https://thielfellowship.org/jobs](https://thielfellowship.org/jobs)
 - https://remotive.com/
+- https://www.proelevate.in/jobs
 
 ### Top Freelancing Platforms:
 
@@ -86,6 +90,7 @@ I have only included stuffs important to me and rest of the stuffs are in Gdocs:
 	- Instagram
 
 ### Hackathons+Tech Events:
+- https://www.infosys.com/careers/hackwithinfy.html
 - [https://mlh.io/seasons/2023/events](https://mlh.io/seasons/2023/events)
 - [https://hack2skill.com/#ongoin-initiatives](https://hack2skill.com/#ongoin-initiatives)
 - [https://unstop.com/](https://unstop.com/)
@@ -111,6 +116,9 @@ I have only included stuffs important to me and rest of the stuffs are in Gdocs:
 - https://www.eventbrite.com/d/india--pune/events/
 
 ### Ambassador/Paid Programs for Students:
+- https://community.aws/students
+
+
 - [https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
 - [https://github.com/cncf/mentoring](https://github.com/cncf/mentoring)
 - [https://mentorship.lfx.linuxfoundation.org/#projects_all](https://mentorship.lfx.linuxfoundation.org/#projects_all)

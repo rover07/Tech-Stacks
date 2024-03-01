@@ -1,6 +1,9 @@
 - [Youtube Playlist-Courses 2 Complete](https://youtube.com/playlist?list=PL9AedAKNmDw0n9D62oXHsJcHuCRmor5N-&si=rdVmZHO6oqM9nixS)
 ## Complete these first!!
-
+- https://learn.microsoft.com/en-us/
+- https://learn.microsoft.com/en-us/training/courses/ai-900t00?wt.mc_id=studentamb_319281
+- https://learn.microsoft.com/en-us/training/courses/az-900t00?wt.mc_id=studentamb_319281
+- https://learn.microsoft.com/en-us/training/courses/dp-900t00?wt.mc_id=studentamb_319281
 - https://www.coursera.org/specializations/oss-development-linux-git
 - https://app.amigoscode.com/courses/855076/lectures/16002822 this is amigoscode linux course
 - https://www.scaler.com/topics/course/nodejs/
@@ -33,6 +36,12 @@
 - https://progate.com/courses/html
 
 ## Might Complete these later. 
+
+- https://www5.open.ac.uk/open-educational-resources/openlearn/free-learning
+- https://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-q62
+- https://www.open.ac.uk/courses/computing-it
+- https://www.open.edu/openlearn/badged-courses?filter=date/grid/287/all
+- https://www.open.edu/openlearn/free-courses/full-catalogue
 - https://www.freecodecamp.org/learn/the-odin-project/
 - https://www.freecodecamp.org/learn/front-end-development-libraries/
 - https://www.freecodecamp.org/learn/back-end-development-and-apis/

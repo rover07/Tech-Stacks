@@ -27,3 +27,7 @@ Check contests from here: [DIGITOMIZE(contains all upcoming contests)](https://d
 [DSA-guide-2023.pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/80fadc12-4064-438c-9a8c-8e4a42c1d953/0558c1cb-45a5-4c95-ba1d-276749133039/DSA-guide-2023.pdf)
 
 [OOPs Handwritten Notes _compressed (1).pdf](https://prod-files-secure.s3.us-west-2.amazonaws.com/80fadc12-4064-438c-9a8c-8e4a42c1d953/9cbad6d4-21fc-43ee-838a-6e7398b90849/OOPs_Handwritten_Notes__compressed_(1).pdf)
+
+## Other Stuffs
+- https://visualgo.net/en
+- https://www.cs.usfca.edu/~galles/visualization/Algorithms.html

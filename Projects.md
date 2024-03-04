@@ -7,17 +7,16 @@
 - **Plant disease app**
 - **Colorblind Extension Chrome/VS code**
 - **Neetcode.io like clone**
-- Resource portal like the one you're reading right now.
+- Resource sharing portal like the one you're reading right now.
 
 # **Learn By Building**
-
-[JavaScript30](https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH)
-https://www.frontendmentor.io/challenges
-[**](https://replit.com/site/bounties)[https://replit.com/site/bounties](https://replit.com/site/bounties) (for bounties, bounty=money for making projects)**
-[**](https://codedamn.com/projects)[https://codedamn.com/projects**](https://codedamn.com/projects**)
-[BlueLearn Projects(Learn by building)](https://www.bluelearn.in/projects/explore)
-[**How to Build WebRTC Live Streaming App**](https://www.zegocloud.com/blog/webrtc-live-streaming?utm_source=youtube&utm_medium=influencer&utm_campaign=2305-piyush-links-ljp)
-[**How to Build Flutter WebRTC Apps**](https://www.zegocloud.com/blog/flutter-webrtc?utm_source=youtube&utm_medium=influencer&utm_campaign=2305-piyush-links-ljp)
+- [iNeuron internship cum projects](https://internship.ineuron.ai/)
+- [JavaScript30](https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH)
+- https://www.frontendmentor.io/challenges
+- [**](https://replit.com/site/bounties)[https://replit.com/site/bounties](https://replit.com/site/bounties) (for bounties, bounty=money for making projects)**
+- [codedamn projects](https://codedamn.com/projects)
+- [BlueLearn Projects(Learn by building)](https://www.bluelearn.in/projects/explore)
+- [**How to Build WebRTC Live Streaming App**](https://www.zegocloud.com/blog/webrtc-live-streaming?utm_source=youtube&utm_medium=influencer&utm_campaign=2305-piyush-links-ljp)
 
 # **Playlists+Videos**
 - [**My Github repo for projects**](https://github.com/stars/rover07/lists/projects)

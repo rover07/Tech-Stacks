@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Only place to get placed.md",
+                "file": "Projects.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Only place to get placed.md",
+                "file": "Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Only place to get placed.md",
+                "file": "Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Only place to get placed.md"
+                "file": "Projects.md"
               }
             }
           }
@@ -161,10 +161,10 @@
   },
   "active": "e03c57f6b6447218",
   "lastOpenFiles": [
+    "Only place to get placed.md",
     "Courses to complete.md",
     "Web Development.md",
     "DSA.md",
-    "Only place to get placed.md",
     "Projects.md"
   ]
 }

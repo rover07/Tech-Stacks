@@ -32,7 +32,9 @@ I have only included stuffs important to me and rest of the stuffs are in Gdocs:
 - [50 Most Common Interview Questions and Answers in HR round](https://career.guru99.com/how-to-answer-50-most-common-interview-questions/)
 - [HR Interview Questions and Answers](https://www.indiabix.com/hr-interview/questions-and-answers/)
 
-	
+## Company Questions Frequency
+- https://github.com/krishnadey30/LeetCode-Questions-CompanyWise
+- https://github.com/xizhengszhang/Leetcode_company_frequency
 ### JOB SECTION
 #### Intern/Job Portals:
 - https://simplify.jobs/l/Top-Summer-Internships

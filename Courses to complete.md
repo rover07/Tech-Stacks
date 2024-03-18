@@ -1,5 +1,10 @@
-- [Youtube Playlist-Courses 2 Complete](https://youtube.com/playlist?list=PL9AedAKNmDw0n9D62oXHsJcHuCRmor5N-&si=rdVmZHO6oqM9nixS)
+-  [Youtube Playlist-Courses 2 Complete](https://youtube.com/playlist?list=PL9AedAKNmDw0n9D62oXHsJcHuCRmor5N-&si=rdVmZHO6oqM9nixS)
 ## Complete these first!!
+- https://www.linkedin.com/learning/introduction-to-artificial-intelligence/reinforcement-learning
+- https://www.linkedin.com/learning/generative-ai-the-evolution-of-thoughtful-online-search/next-steps?autoSkip=true&resume=false
+- https://www.linkedin.com/learning/browse/certifications
+- https://www.cloudskillsboost.google/course_templates/539
+- https://codedamn.com/login?next=%2Flearn%2Fhtml-css%2Fhtml-basics%2Fsay-hello-to-html-elements.e8yvqy5ZdLDb_WyZ69WP3
 - https://learn.microsoft.com/en-us/collections/o1njfe825p602p
 - https://learn.microsoft.com/en-us/
 - https://learn.microsoft.com/en-us/training/courses/ai-900t00?wt.mc_id=studentamb_319281

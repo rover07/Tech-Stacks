@@ -7,7 +7,7 @@
 - **Plant disease app**
 - **Colorblind Extension Chrome/VS code**
 - **Neetcode.io like clone**
-- Resource sharing portal like the one you're reading right now.
+- Resource sharing portal like the one you're reading right now. Eg. Notion like notes 
 
 # **Learn By Building**
 - [iNeuron internship cum projects](https://internship.ineuron.ai/)

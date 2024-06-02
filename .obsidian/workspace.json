@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a6ebfd41725f27a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses to complete.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6dd71c6ef6be375f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9f2b003946e19ab0",
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Only place to get placed.md",
+                "file": "Quant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Only place to get placed.md",
+                "file": "Quant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Only place to get placed.md"
+                "file": "Quant.md"
               }
             }
           }
@@ -159,15 +183,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e03c57f6b6447218",
+  "active": "6dd71c6ef6be375f",
   "lastOpenFiles": [
-    "Courses to complete.md",
-    "DSA.md",
-    "Untitled.md",
-    "Untitled",
-    "Open Source.md",
-    "Web Development.md",
     "Projects.md",
-    "Only place to get placed.md"
+    "Quant.md",
+    "Courses to complete.md",
+    "Web Development.md",
+    "DevOps+Linux.md",
+    "Only place to get placed.md",
+    "DSA.md",
+    "Untitled",
+    "Open Source.md"
   ]
 }

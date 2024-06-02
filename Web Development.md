@@ -32,6 +32,7 @@
 
 # **Resources**
 
+- [The Eloquent JS book playlist](https://youtube.com/playlist?list=PL-uROEx3vAxi4NyQ_8Euc1oPBfG2VJRvQ&si=TmojSNjZDDbrCBxN)
 - [**](https://codeburst.io/100-free-resources-to-learn-full-stack-web-development-5b40e0bdf5f2)[https://codeburst.io/100-free-resources-to-learn-full-stack-web-development-5b40e0bdf5f2**](https://codeburst.io/100-free-resources-to-learn-full-stack-web-development-5b40e0bdf5f2**)
 - **MDN: [https://developer.mozilla.org/en-US/**](https://developer.mozilla.org/en-US/**)
 - **WebD playlist khud banaya ye: [https://www.youtube.com/playlist?list=PL9AedAKNmDw0K_H0uA8BocnmQS5qdlkho**](https://www.youtube.com/playlist?list=PL9AedAKNmDw0K_H0uA8BocnmQS5qdlkho**)

@@ -1,5 +1,7 @@
 # **Some of the Projects**
 
+- [Self-Project github list](https://github.com/stars/rover07/lists/self-project)
+- WebRTC+Sign Language= Video Chat for Deaf/Dumb with Deaf/Dumb or enabled person.
 - **Devkul- [Website Repo](https://github.com/Devkul-Website/Devkul-Community-Website) | [Youtube resources for devkul website](https://youtube.com/playlist?list=PL9AedAKNmDw0w-QtQjuot06qUbBDxA8em&si=hjIE3pC-InGhpbqt)**
 - **Serw**
 - **Boxrap**

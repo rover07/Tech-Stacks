@@ -33,3 +33,5 @@
 # Deep Learning
 
 - [http://introtodeeplearning.com/](http://introtodeeplearning.com/)
+# Generative AI
+- [https://youtube.com/playlist?list=PLu0W_9lII9aiS4rUVp2jXwIvCruo27sG6&si=QxBPq86ggTM7aLS1](Codewithharry playlist)

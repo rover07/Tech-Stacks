@@ -1,3 +1,8 @@
+# JS Challenge
+- [Leetcode 30 days JS challenge](https://leetcode.com/studyplan/30-days-of-javascript/)
+- [Video solution of the above challenge](https://youtube.com/playlist?list=PLQpVsaqBj4RIpDQIVowFni58LsK4cM9Qz&si=ERQQ8YU_R43Hn8jq)
+# Notes
+- [Akshay Bhaiya Notes(linux wala akshay)](https://www.notion.so/debugwithakshay/Front-end-Development-6-20-4e95078045d449ee9272586bb657b046)
 - Cohort 2 Resources:[Gist for JS answer](https://gist.github.com/hkirat/898ac1da32b6b347a8c0c3e73e1c0666) | [Assignments](https://github.com/100xdevs-cohort-2/assignments) + [Answer(maybe)](https://github.com/HarshDev56/100xDevs_MERN_assignments/tree/master) | [Doodstream](https://ds2play.com/f/9wpgnfmhar) | [Notes |](/6b6c2a9f1282499aba4782b88bf7e204?pvs=25) [JS Roadmap](https://whimsical.com/js-basics-roadmap-HxsoYtVkawZbjC1gcy61Cc) [](/6b6c2a9f1282499aba4782b88bf7e204?pvs=25)
 - **[Cohort 2 Notes](https://quickest-juniper-f9c.notion.site/Cohort-2-0-FullStack-Open-Source-6b6c2a9f1282499aba4782b88bf7e204)**
 - Delta Resources: [Delta repo](https://github.com/apna-college?tab=repositories) | [Delta Projects Repo](https://github.com/apna-college/Delta-Projects)

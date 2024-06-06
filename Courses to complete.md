@@ -23,6 +23,12 @@
 - https://progate.com/courses/commandline
 - https://progate.com/courses/html
 - https://progate.com/courses/es6
+- https://courses.cfte.education/free-online-blockchain-masterclass/
+- https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python?index=product&queryID=f31242c6a5effe6def60df1498fc2a69&position=3&results_level=second-level-results&term=ai&objectID=course-3a31db71-de8f-45f1-ae65-11981ed9d680&campaign=CS50%27s+Introduction+to+Artificial+Intelligence+with+Python&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch
+- https://www.edx.org/learn/education/university-of-canterbury-teaching-computational-thinking?index=product&queryID=726adbb3729e873142c9a5ef9667c49b&position=9&results_level=second-level-results&term=Computer+Programming&objectID=course-f80fd692-9b14-448d-b54a-348618a71755&campaign=Teaching+Computational+Thinking&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch
+- https://www.edx.org/learn/computer-science/harvard-university-cs50-s-understanding-technology?index=product&queryID=726adbb3729e873142c9a5ef9667c49b&position=4&results_level=second-level-results&term=Computer+Programming&objectID=course-9e0d9bd0-8557-49bc-a949-4fc7ff7727ac&campaign=CS50%27s+Understanding+Technology&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch
+- https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computational-thinking-and-data-science?index=product&queryID=6966f6cf543298135683c4ea23216cb2&position=16&results_level=second-level-results&term=Computer+Programming&objectID=course-20e2ce7f-0e98-43eb-a956-ac820d822afd&campaign=Introduction+to+Computational+Thinking+and+Data+Science&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch
+- 
 - 
 - https://www.linkedin.com/learning/introduction-to-artificial-intelligence/reinforcement-learning
 - https://www.linkedin.com/learning/generative-ai-the-evolution-of-thoughtful-online-search/next-steps?autoSkip=true&resume=false
@@ -76,6 +82,17 @@
 
 
 # Might Complete these later. 
+- https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin
+- https://github.com/skills
+- https://www.databricks.com/resources/learn/training/generative-ai-fundamentals
+- https://www.kaggle.com/learn
+- https://www.lambdatest.com/certifications/
+- https://www.lambdatest.com/certifications/selenium-javascript-101
+- https://www.lambdatest.com/certifications/selenium-python-101
+- https://www.lambdatest.com/certifications/selenium-advanced
+- https://learn.saylor.org/course/index.php?categoryid=9
+- https://www.open.edu/openlearn/profiles/zt977615/progress
+- 
 - https://university.atlassian.com/student/catalog
 - https://university.atlassian.com/student/path/1586627
 - https://www.coursera.org/specializations/data-engineering-foundations

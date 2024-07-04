@@ -10,6 +10,9 @@
 - **Colorblind Extension Chrome/VS code**
 - **Neetcode.io like clone**
 - Resource sharing portal like the one you're reading right now. Eg. Notion like notes 
+- Hostel roommate searching portal
+- Host OSrc orgs to contribute (website)
+- Host Ambassador programs (website) like this : https://opensourcefrontend.netlify.app/
 
 # **Learn By Building**
 - [iNeuron internship cum projects](https://internship.ineuron.ai/)
@@ -28,4 +31,6 @@
 - [**46 KILLER GOLANG Projects in 46 Different Videos ! [ Perfect For Beginners ]**](https://youtube.com/playlist?list=PL5dTjWUk_cPYztKD7WxVFluHvpBNM28N9&si=yUOYm1MsY3vMAk6r
 -  [**DevOps Resume Projects**](https://youtu.be/pO-8y_f8YMQ?si=CHRj4Dd5M7zehO1G)
 - [**DevOps Project - How to Learn DevOps Through a Practical Project**](https://youtu.be/oif22pmFMuI?si=xs57csqrJfpH0-_P)
+
+
 

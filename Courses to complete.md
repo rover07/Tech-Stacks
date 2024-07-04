@@ -1,6 +1,7 @@
 -  [Youtube Playlist-Courses 2 Complete](https://youtube.com/playlist?list=PL9AedAKNmDw0n9D62oXHsJcHuCRmor5N-&si=rdVmZHO6oqM9nixS)
 ## Complete these first!!
 # Also check below domain wise list and choose among those
+- https://www.freecodecamp.org/learn/a2-english-for-developers
 - https://www.coursera.org/learn/stanford-statistics
 - https://www.coursera.org/projects/chatgpt-prompt-engineering-for-developers-project
 -  https://www.coursera.org/specializations/deep-learning

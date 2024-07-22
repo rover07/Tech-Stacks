@@ -1,17 +1,28 @@
 # Contests
-Check contests from here: [DIGITOMIZE(contains all upcoming contests)](https://digitomize.com/contests) |  [CODECHEF](https://www.codechef.com/contests?itm_medium=navmenu&itm_campaign=allcontests) | [CODEFORCES](https://codeforces.com/contests) | [LEETCODE](https://leetcode.com/contest/) | [HACKEREARTH](https://www.hackerearth.com/challenges/) | [HACKERRANK](https://www.hackerrank.com/contests) | [GFG](https://practice.geeksforgeeks.org/events?utm_source=geeksforgeeks&utm_medium=main_header&utm_campaign=contests) | [CODESTUDIO](https://www.codingninjas.com/studio/contests)
-
+Check contests from here: [DIGITOMIZE(contains all upcoming contests)](https://digitomize.com/contests) 
+<!--
+[CODECHEF](https://www.codechef.com/contests?itm_medium=navmenu&itm_campaign=allcontests) | [CODEFORCES](https://codeforces.com/contests) | [LEETCODE](https://leetcode.com/contest/) | [HACKEREARTH](https://www.hackerearth.com/challenges/) | [HACKERRANK](https://www.hackerrank.com/contests) | [GFG](https://practice.geeksforgeeks.org/events?utm_source=geeksforgeeks&utm_medium=main_header&utm_campaign=contests) | [CODESTUDIO](https://www.codingninjas.com/studio/contests)
+-->
+---
 ## Documentation 2 refer to(C++)
 - https://cplusplus.com/
-# DSA Gawd course
+---
+# DSA Gawd course+Additional playlist
+- https://youtube.com/playlist?list=PL9AedAKNmDw2kibpOGe9FS0yqztSsF2lF&si=wnu_Ve_TQ0rNMlM5
 - [MIT 6.006 Introduction to Algorithms, Fall 2011](https://youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&si=DqYgBcZMP4f7Xhep)
 -  [MIT 6.006 Introduction to Algorithms, Spring 2020](https://youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY&si=jxZCT04dJ1i9gYEm)
+---
+<!--
 # Repo
-- - **[Leetcode_company_frequency repo](https://github.com/xizhengszhang/Leetcode_company_frequency)**
+- **[Leetcode_company_frequency repo](https://github.com/xizhengszhang/Leetcode_company_frequency)**
 - **[Leetcode Questions repo](https://github.com/haoel/leetcode)**
+-->
 
 ## I don't need this, just get certificate once course completes!
 - https://learn.coderarmy.in/t/u/activeCourses
+
+---
+
 <!--
 # Sheets
 [Babbar DSA Cracker](https://450dsa.com/)

@@ -18,6 +18,8 @@
 - **Hostel roommate searching portal (maybe will be my final year project)**
 - Host OSrc orgs to contribute (website)
 - Host Ambassador programs (website) like this : https://opensourcefrontend.netlify.app/
+- Bus tracking system where host(conductor) uses a gps and we can track and predict tinimg and speed of bus
+- Clinic app to refer to another doctor with entire information transfer
 
 # **Learn By Building**
 - [iNeuron internship cum projects](https://internship.ineuron.ai/)

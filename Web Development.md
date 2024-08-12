@@ -11,6 +11,7 @@
 	- [Namaste JS Notes](https://alok722.github.io/namaste-javascript-notes/**](https://alok722.github.io/namaste-javascript-notes/) -->
 - [SASS Tutorial (Build Your Own CSS Library)](https://youtube.com/playlist?list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb&si=h2YnMIFcskwR5wmN)
 - [HTMX by Net Ninjas](https://youtube.com/playlist?list=PL4cUxeGkcC9gnEsXRqdY4e_xNy9GK7aQR&si=T9rRWw0G7boNd8zz)
+	- [Single Page App using HTMX](https://youtube.com/playlist?list=PL4cUxeGkcC9gGiQQoW8HcyrQJdzTEFtmP&si=ck6bGst0tGKPgfec)
 - [The Eloquent JS book playlist](https://youtube.com/playlist?list=PL-uROEx3vAxi4NyQ_8Euc1oPBfG2VJRvQ&si=TmojSNjZDDbrCBxN)
 - [Build Chrome extensions](https://youtube.com/playlist?list=PLRqwX-V7Uu6bL9VOMT65ahNEri9uqLWfS&si=aASjCQ5Qcliv-nFD)
 - [Chrome Extensions using REACT](https://youtube.com/playlist?list=PLBS1L3Ug2VVods9GnWbJc__STt9VnrJ9Z&si=TGJ-RqZVdeqXlnmG)

@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Only place to get placed.md",
+                "file": "Projects.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Only place to get placed.md",
+                "file": "Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Only place to get placed.md",
+                "file": "Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Only place to get placed.md"
+                "file": "Projects.md"
               }
             }
           }
@@ -233,14 +233,15 @@
   },
   "active": "447e10779f0669cf",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Web Development.md",
     "Only place to get placed.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "DSA.md",
     "Quant.md",
     "README.md",
     "System Design.md",
     "UI & UX.md",
-    "Web Development.md",
     "DevOps+Linux.md",
     "Open Source.md",
     "Game Development.md",

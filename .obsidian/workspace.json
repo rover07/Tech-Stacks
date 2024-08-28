@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects.md",
+                "file": "Courses to complete.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9f2b003946e19ab0",
@@ -170,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects.md",
+                "file": "Courses to complete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects.md",
+                "file": "Courses to complete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects.md"
+                "file": "Courses to complete.md"
               }
             }
           }
@@ -233,6 +234,10 @@
   },
   "active": "447e10779f0669cf",
   "lastOpenFiles": [
+    "Projects.md",
+    "Courses to complete.md",
+    "DevOps+Linux.md",
+    "Blockchain & Web3.md",
     "Web Development.md",
     "Only place to get placed.md",
     "Untitled 1.md",
@@ -242,15 +247,11 @@
     "README.md",
     "System Design.md",
     "UI & UX.md",
-    "DevOps+Linux.md",
     "Open Source.md",
     "Game Development.md",
     "Flutter.md",
     "DevRel.md",
-    "Courses to complete.md",
     "Ai+DS+ML.md",
-    "Blockchain & Web3.md",
-    "Projects.md",
     "Pasted image 20240613233450.png",
     "Untitled"
   ]

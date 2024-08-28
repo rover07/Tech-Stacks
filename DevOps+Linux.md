@@ -46,6 +46,8 @@
 ---
 # **Linux Stuffs**
 ## Playlists
+- [Linux masterclass by Apurv](https://youtube.com/playlist?list=PL2kSRH_DmWVZp_cu6MMPWkgYh7GZVFS6i&si=v9fBhzklwgtVMC-t)
+- [Akshay Linux workshop](https://www.notion.so/Linux-77-1-93ff34cbc1f44185976d379552323564)
 - [My Linux+Shell Scripting Playlist]([**Linux+Shell scripting**](https://youtube.com/playlist?list=PL9AedAKNmDw1Zhz4N-xUF5BiUoeMNWtOg&si=BF6KyUftbx_qtoF-))
 - [**Learn Linux TV Channel**](https://www.youtube.com/@LearnLinuxTV)
 - [**](https://infinite.education/skillset/linux_administrator)[https://infinite.education/skillset/linux_administrator**](https://infinite.education/skillset/linux_administrator**)

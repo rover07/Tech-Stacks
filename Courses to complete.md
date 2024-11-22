@@ -2,6 +2,7 @@
 ## Collective links of playlists (or) websites having courses purchased
 -  [Youtube Playlist-Courses 2 Complete](https://youtube.com/playlist?list=PL9AedAKNmDw0n9D62oXHsJcHuCRmor5N-&si=rdVmZHO6oqM9nixS)
 - https://pll.harvard.edu/catalog/free
+- https://www.edx.org/
 - https://ocw.mit.edu/
 - https://online.stanford.edu/free-courses
 - https://fireship.io/courses

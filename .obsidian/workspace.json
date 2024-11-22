@@ -16,7 +16,9 @@
                 "file": "Projects.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Projects"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Only place to get placed.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Only place to get placed"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "Courses to complete.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Courses to complete"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "Courses to complete.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Courses to complete"
             }
           },
           {
@@ -64,7 +72,9 @@
                 "file": "Web Development.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Web Development"
             }
           },
           {
@@ -76,7 +86,9 @@
                 "file": "DSA.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "DSA"
             }
           },
           {
@@ -88,7 +100,9 @@
                 "file": "Only place to get placed.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Only place to get placed"
             }
           },
           {
@@ -97,10 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses to complete.md",
+                "file": "DevOps+Linux.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "DevOps+Linux"
             }
           }
         ],
@@ -124,7 +140,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -139,7 +157,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -147,15 +167,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9f2b003946e19ab0",
@@ -171,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses to complete.md",
+                "file": "Web Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +200,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Web Development"
             }
           },
           {
@@ -188,10 +211,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses to complete.md",
+                "file": "Web Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Web Development"
             }
           },
           {
@@ -202,7 +227,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -211,8 +238,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses to complete.md"
-              }
+                "file": "Web Development.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Web Development"
             }
           }
         ]
@@ -234,20 +263,20 @@
   },
   "active": "447e10779f0669cf",
   "lastOpenFiles": [
+    "System Design.md",
+    "Open Source.md",
+    "Blockchain & Web3.md",
+    "Web Development.md",
     "Projects.md",
     "Courses to complete.md",
     "DevOps+Linux.md",
-    "Blockchain & Web3.md",
-    "Web Development.md",
     "Only place to get placed.md",
     "Untitled 1.md",
     "Untitled.md",
     "DSA.md",
     "Quant.md",
     "README.md",
-    "System Design.md",
     "UI & UX.md",
-    "Open Source.md",
     "Game Development.md",
     "Flutter.md",
     "DevRel.md",

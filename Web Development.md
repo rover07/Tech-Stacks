@@ -1,4 +1,5 @@
-
+# Github Stars: 
+	https://github.com/stars/rover07/lists/webd
 # Playlist
 ### Important Ones
 - [WebD playlist khud banaya ye](https://www.youtube.com/playlist?list=PL9AedAKNmDw0K_H0uA8BocnmQS5qdlkho)
@@ -56,6 +57,7 @@
 ### Libraries/Frameworks
 - **[Shadcn UI course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h1NXLUuiAQ7c4UtdEInqma)** 
 - **[Shadcn DOCS](https://ui.shadcn.com/)**
+- https://ui.aceternity.com/
 - **[Chakra UI](https://youtube.com/playlist?list=PL4cUxeGkcC9hcnIeryurNMMcGBHp7AYlP&si=lwAF-R4uDdkR4ndM)**
 - https://magicui.design/
 - https://flowbite-react.com/
@@ -69,6 +71,7 @@
 	- https://tailwindcss.com/
 ### Others
 - AI for Design: https://openui.fly.dev/ai/
+- (jQuery Library): https://zeptojs.com/ 
 - graphical/ interesting design: https://rive.app/
 - CRED's component library: https://playground.cred.club/
 - https://cord.js.org/

@@ -43,6 +43,9 @@
 # APIs
 - https://metastatus.com/
 - https://free-apis.github.io/#/
+- https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
+- http://scratched-desert-d67.notion.site/
+- https://apivault.dev/
 ---
 # DOCS
 - https://react.dev/learn

@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps+Linux.md",
+                "file": "Web Development.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DevOps+Linux"
+              "title": "Web Development"
             }
           }
         ],
@@ -263,13 +263,13 @@
   },
   "active": "447e10779f0669cf",
   "lastOpenFiles": [
+    "Projects.md",
+    "DevOps+Linux.md",
     "System Design.md",
     "Open Source.md",
     "Blockchain & Web3.md",
     "Web Development.md",
-    "Projects.md",
     "Courses to complete.md",
-    "DevOps+Linux.md",
     "Only place to get placed.md",
     "Untitled 1.md",
     "Untitled.md",

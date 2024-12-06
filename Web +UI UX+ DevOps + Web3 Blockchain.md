@@ -1,10 +1,10 @@
 # **Web Dev**
+
 # Github Stars: 
 	https://github.com/stars/rover07/lists/webd
 # Playlist
 ### Important Ones
 - [WebD playlist khud banaya ye](https://www.youtube.com/playlist?list=PL9AedAKNmDw0K_H0uA8BocnmQS5qdlkho)
--  [ui/ux stuff Playlist MINE]([https://youtube.com/playlist?list=PL9AedAKNmDw1QirSxzAGrVU6iLiWVs6hu&si=B7xFwokStzHcp-xh**](https://youtube.com/playlist?list=PL9AedAKNmDw1QirSxzAGrVU6iLiWVs6hu&si=B7xFwokStzHcp-xh**))
 
 <!-- 
 - Piyush Garg
@@ -25,9 +25,9 @@
 - [Chrome Extensions using REACT](https://youtube.com/playlist?list=PLBS1L3Ug2VVods9GnWbJc__STt9VnrJ9Z&si=TGJ-RqZVdeqXlnmG)
 - [GNOME extensions development](https://youtube.com/playlist?list=PLr3kuDAFECjZhW-p56BoVB7SubdUHBVQT&si=b3Vm_iYHQDjf7Qih)
 - [GNOME extensions development another video](https://www.youtube.com/watch?v=Y6zpDF_Ug50&t=66s)
-<!-- 
 - [React Typescript tutorial for beginners](https://youtube.com/playlist?list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK&si=qgMVEEd-Z48OIEU3)
 - [NO BS TS](https://youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n&si=x_JwNvIHkUNinwB8) 
+<!--
 -  [Flask By TechWithTim](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX&si=QeWpPnlITrKq5HpS)
 -  [Flask by krish nayak](https://youtube.com/playlist?list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc&si=RfdLCujjkdzQs7Rv) 
 -->
@@ -84,12 +84,10 @@
 - graphical/ interesting design: https://rive.app/
 - CRED's component library: https://playground.cred.club/
 - https://cord.js.org/
-<!--
 ## Headless CMS
 - Strapi 
 	- [Tutorial1(Harry)](https://youtube.com/playlist?list=PLu0W_9lII9ajKKSG5aROCiw9iro5vK-gE&si=Sw79M7FP5Sy4Q16a)
 	- [Tutorial2(Net ninjas)](https://youtube.com/playlist?list=PL4cUxeGkcC9h6OY8_8Oq6JerWqsKdAPxn&si=1UqACJg3tlrK6_FM)
--->
 ---
 # **Resources**
 <!--
@@ -158,7 +156,7 @@
 # **Blockchain/WEB3**
 # Github Stars:
 - https://github.com/stars/rover07/lists/blockchain
-- [https://www.summerofbitcoin.org/apply](https://www.summerofbitcoin.org/apply) T
+- [https://www.summerofbitcoin.org/apply](https://www.summerofbitcoin.org/apply) 
 
 ---
 # **DevOps + Linux**

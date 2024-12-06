@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development.md",
+                "file": "Web +UI UX+ DevOps + Web3 Blockchain.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web Development"
+              "title": "Web +UI UX+ DevOps + Web3 Blockchain"
             }
           }
         ],
@@ -263,20 +263,20 @@
   },
   "active": "447e10779f0669cf",
   "lastOpenFiles": [
-    "Projects.md",
-    "DevOps+Linux.md",
-    "System Design.md",
     "Open Source.md",
+    "Quant.md",
+    "Web +UI UX+ DevOps + Web3 Blockchain.md",
+    "DevOps+Linux.md",
     "Blockchain & Web3.md",
-    "Web Development.md",
+    "UI & UX.md",
+    "Projects.md",
+    "System Design.md",
     "Courses to complete.md",
     "Only place to get placed.md",
     "Untitled 1.md",
     "Untitled.md",
     "DSA.md",
-    "Quant.md",
     "README.md",
-    "UI & UX.md",
     "Game Development.md",
     "Flutter.md",
     "DevRel.md",

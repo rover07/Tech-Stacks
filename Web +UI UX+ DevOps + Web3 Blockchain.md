@@ -13,6 +13,7 @@
 	-->
 - [Detailed JS](https://youtube.com/playlist?list=PLfEr2kn3s-bo4LwlbyZugHPavhcdW8YMC&si=I45IOxUmeIRBKV50)
 - [JS Interview Prep](https://youtube.com/playlist?list=PLKhlp2qtUcSaCVJEt4ogEFs6I41pNnMU5&si=Tl4gBWL0kasbWStG)
+- [JS Interview Prep (Piyush Garg)](https://youtube.com/playlist?list=PLinedj3B30sDi0keEOQU3n5p3Op28eN2e&si=UMNLokvgdXjzZg5-)
  - [Namaste JS](https://youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&si=9c5ibpiTALZWtU-T)
  - [Namaste JS season 2](https://youtube.com/playlist?list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ60aX&si=atADHXqWtJ9eA72M)
 	- [Namaste JS Notes](https://alok722.github.io/namaste-javascript-notes/**](https://alok722.github.io/namaste-javascript-notes/) -->
@@ -133,7 +134,7 @@
 - [CodePen](https://codepen.io/)
 - [Google Fonts](https://fonts.google.com/specimen/Poppins)
 - Color Pallette: https://coolors.co/?home
-- - AI for Design: https://openui.fly.dev/ai/
+- AI for Design: https://openui.fly.dev/ai/
 ---
 # Roadmap
 - [ANSH MEHRA COURSE cum ROADMAP](https://learnuiux.in/)
@@ -164,8 +165,7 @@
 
 # Github Stars: 
 - https://github.com/stars/rover07/lists/devops
-
-[free bootcamp train with shubham](https://youtube.com/playlist?list=PLlfy9GnSVerQ4bsDWsPcAkzttrI38Pnoj&si=7cUfn4NSl2JifwDF)
+- [free bootcamp train with shubham](https://youtube.com/playlist?list=PLlfy9GnSVerQ4bsDWsPcAkzttrI38Pnoj&si=7cUfn4NSl2JifwDF)
 
 ---
 # **Roadmaps**

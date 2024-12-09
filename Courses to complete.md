@@ -1,11 +1,24 @@
 # Rule of thumb: Move courses from bottom lists to top as per use. Once done, put them in last category names as done.
-## Collective links of playlists (or) websites having courses purchased
+## Collective links of playlists (or) websites having courses purchased or open courses
+
+- ### Most Imp Ones
+
+---
 -  [Youtube Playlist-Courses 2 Complete](https://youtube.com/playlist?list=PL9AedAKNmDw0n9D62oXHsJcHuCRmor5N-&si=rdVmZHO6oqM9nixS)
+- https://fireship.io/courses
+- https://academy.postman.com/page/course-catalog
+- https://www.hackerrank.com/skills-verification
+- https://www.theforage.com/dashboard- https://www.linkedin.com/learning/browse/certifications
+- https://www.deeplearning.ai/short-courses/
+- 
+---
+- ### Rest stuffs
+
+---
 - https://pll.harvard.edu/catalog/free
 - https://www.edx.org/
 - https://ocw.mit.edu/
 - https://online.stanford.edu/free-courses
-- https://fireship.io/courses
 - https://www.freecodecamp.org/learn/the-odin-project/
 - https://university.atlassian.com/student/catalog
 - https://www.open.edu/openlearn/free-courses/full-catalogue
@@ -17,16 +30,12 @@
 - https://www.kaggle.com/learn
 - https://www.lambdatest.com/certifications/
 -  https://github.com/skills
-- https://academy.postman.com/page/course-catalog
-- https://www.hackerrank.com/skills-verification
-- https://www.theforage.com/dashboard
 - https://www.freecodecamp.org/learn/
 - https://learn.microsoft.com/en-us/
-- https://www.linkedin.com/learning/browse/certifications
-- https://www.deeplearning.ai/short-courses/
 - https://skills.yourlearning.ibm.com/channels/recommended
 - https://www.wqu.edu/programs/
 - https://fullstackopen.com/en/about/
+
 --------------------
 
 --------------------
@@ -55,6 +64,8 @@
 	- https://www.coursera.org/learn/aws-cloud-practitioner-essentials
 	- https://www.coursera.org/specializations/aws-fundamentals
 	- https://www.coursera.org/learn/aws-cloud-technical-essentials
+- Algorithms
+	- https://www.coursera.org/specializations/algorithms
 - Linux
 	- https://www.coursera.org/specializations/oss-development-linux-git
 	- https://www.coursera.org/learn/linux-and-sql
@@ -65,8 +76,7 @@
 	- https://www.coursera.org/professional-certificates/google-ux-design
 	- https://www.coursera.org/learn/computer-networking
 - Other technical
-	- https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/video_galleries/lecture-videos/
-	- https://www.coursera.org/specializations/algorithms
+	- https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/video_galleries/lecture-videos/=
 	- https://www.coursera.org/learn/what-is-the-metaverse
 	- https://www.coursera.org/specializations/gpu-programming
 	- https://trainingportal.linuxfoundation.org/learn/course/open-source-technical-documentation-essentials-lfc111/course-introduction/course-information

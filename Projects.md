@@ -6,6 +6,19 @@
 - ### [AI/ML+Web Projects](https://youtube.com/playlist?list=PL9AedAKNmDw31SqvRDgmK_r7ZI0zpk382&si=fdsl5z9WJUUIDXGK)
 - ### [**Jaldhi Projects**](https://youtube.com/playlist?list=PL9AedAKNmDw13eqKzoTckHpFVqtsIS46J&si=bRsHcSUV2WkikP9D)
 - ### [**My Github starred repo for projects**](https://github.com/stars/rover07/lists/projects)
+- Channels for good projects
+	- https://www.youtube.com/@codewithantonio
+	- https://www.youtube.com/@huxnwebdev
+	- https://www.youtube.com/@joshtriedcoding
+	- https://www.youtube.com/@janmarshalcoding/videos
+	- https://www.youtube.com/@webprodigies
+	- https://www.youtube.com/@javascriptmastery/videos
+	- https://www.youtube.com/@LamaDev/videos
+	- https://www.youtube.com/@SinghDevHub
+	- https://www.youtube.com/@EdRohDev/videos
+	- https://www.youtube.com/@aniakubow/videos
+	- https://www.youtube.com/@javascriptmastery/videos
+	- https://www.youtube.com/@CodingWithDawid
 # **Personal Projects**
 - WebRTC+Sign Language= Video Chat for Deaf/Dumb with Deaf/Dumb or enabled person.
 - **Devkul- [Website Repo](https://github.com/Devkul-Website/Devkul-Community-Website) | [Youtube resources for devkul website](https://youtube.com/playlist?list=PL9AedAKNmDw0w-QtQjuot06qUbBDxA8em&si=hjIE3pC-InGhpbqt)**

@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects.md",
+                "file": "Courses to complete.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projects"
+              "title": "Courses to complete"
             }
           }
         ],
@@ -263,14 +263,14 @@
   },
   "active": "447e10779f0669cf",
   "lastOpenFiles": [
-    "Courses to complete.md",
+    "Projects.md",
     "Web +UI UX+ DevOps + Web3 Blockchain.md",
+    "Courses to complete.md",
     "Open Source.md",
     "Quant.md",
     "DevOps+Linux.md",
     "Blockchain & Web3.md",
     "UI & UX.md",
-    "Projects.md",
     "System Design.md",
     "Only place to get placed.md",
     "Untitled 1.md",

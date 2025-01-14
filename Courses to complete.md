@@ -10,10 +10,9 @@
 - https://www.hackerrank.com/skills-verification
 - https://www.theforage.com/dashboard- https://www.linkedin.com/learning/browse/certifications
 - https://www.deeplearning.ai/short-courses/
-- 
+- https://www.coursera.org/learn/learning-how-to-learn
 ---
-- ### Rest stuffs
-
+- ### Rest stuffs (These are portals in themselves)
 ---
 - https://pll.harvard.edu/catalog/free
 - https://www.edx.org/
@@ -44,6 +43,8 @@
 
 --------------------
 # Complete these first[QUEUE]!!
+- Learning how to learn
+	- https://www.coursera.org/learn/learning-how-to-learn
 - Web3/Blockchain
 	- https://www.coursera.org/specializations/blockchain
 	- https://www.coursera.org/learn/cryptocurrency
@@ -57,6 +58,10 @@
 	- https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin
 - WebD
 	-  https://www.coursera.org/professional-certificates/meta-front-end-developer
+
+- Mobile Dev
+	- https://www.coursera.org/specializations/meta-react-native
+
 - Design
 	- https://www.coursera.org/professional-certificates/google-ux-design
 	- https://www.ibm.com/design/thinking/page/courses/Practitioner
@@ -256,10 +261,6 @@
 - https://www.coursera.org/learn/fundamentals-of-ansible
 - https://www.coursera.org/learn/fundamentals-of-red-hat-openshift-for-developers
 - https://www.coursera.org/learn/tencent-cloud-practitioner
-- 
-### Mobile Dev
-- https://www.coursera.org/specializations/meta-react-native
-
 ### Project Management
 
 | Course Name                                                                                                               | Course Provider                   | Level    | Hour(s) | Reward |
@@ -313,10 +314,6 @@ Web3
 	- https://www.coursera.org/specializations/academic-english
 	- https://www.coursera.org/specializations/intermediate-grammar
 	- https://www.coursera.org/specializations/ielts-preparation
-- Korean
-	- https://www.coursera.org/learn/learn-korean
-	- https://www.coursera.org/learn/learn-speak-korean1
-
 ---
 
 ---

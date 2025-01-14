@@ -8,6 +8,7 @@
 - ### [**My Github starred repo for projects**](https://github.com/stars/rover07/lists/projects)
 - Channels for good projects
 	- https://www.youtube.com/@codewithantonio
+	- https://www.youtube.com/@klitonbare
 	- https://www.youtube.com/@huxnwebdev
 	- https://www.youtube.com/@joshtriedcoding
 	- https://www.youtube.com/@janmarshalcoding/videos

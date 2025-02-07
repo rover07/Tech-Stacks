@@ -1,9 +1,8 @@
 # **Web Dev**
 
-# Github Stars: 
+### Github Stars: 
 	https://github.com/stars/rover07/lists/webd
-# Playlist
-### Important Ones
+### Playlist
 - [WebD playlist khud banaya ye](https://www.youtube.com/playlist?list=PL9AedAKNmDw0K_H0uA8BocnmQS5qdlkho)
 
 <!-- 
@@ -47,14 +46,14 @@
 <!-- - Cohort 2 Resources:[Gist for JS answer](https://gist.github.com/hkirat/898ac1da32b6b347a8c0c3e73e1c0666) | [Assignments](https://github.com/100xdevs-cohort-2/assignments) + (https://github.com/HarshDev56/100xDevs_MERN_assignments/tree/master)  | [Notes |](/6b6c2a9f1282499aba4782b88bf7e204?pvs=25) 
 - %%  **[Cohort 2 Notes](https://quickest-juniper-f9c.notion.site/Cohort-2-0-FullStack-Open-Source-6b6c2a9f1282499aba4782b88bf7e204)**  
 - %% Delta Resources: [Delta repo](https://github.com/apna-college?tab=repositories) | [Delta Projects Repo](https://github.com/apna-college/Delta-Projects) %% -->
-# APIs
+### APIs
 - https://metastatus.com/
 - https://free-apis.github.io/#/
 - https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
 - http://scratched-desert-d67.notion.site/
 - https://apivault.dev/
 ---
-# DOCS
+### DOCS
 - https://react.dev/learn
 - https://create-react-app.dev/docs/installing-a-dependency/
 - https://nextjs.org/
@@ -63,8 +62,8 @@
 - https://nodejs.org/en
 - https://developer.mozilla.org/
 ---
-# Explore These
-### Libraries/Frameworks
+### Explore These
+#### Libraries/Frameworks
 - **[Shadcn UI course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9h1NXLUuiAQ7c4UtdEInqma)** 
 - **[Shadcn DOCS](https://ui.shadcn.com/)**
 - https://ui.aceternity.com/
@@ -79,17 +78,17 @@
 	- https://play.tailwindcss.com/
 	- https://tailblocks.cc/
 	- https://tailwindcss.com/
-### Others
+#### Others
 - (jQuery Library): https://zeptojs.com/ 
 - graphical/ interesting design: https://rive.app/
 - CRED's component library: https://playground.cred.club/
 - https://cord.js.org/
-## Headless CMS
+### Headless CMS
 - Strapi 
 	- [Tutorial1(Harry)](https://youtube.com/playlist?list=PLu0W_9lII9ajKKSG5aROCiw9iro5vK-gE&si=Sw79M7FP5Sy4Q16a)
 	- [Tutorial2(Net ninjas)](https://youtube.com/playlist?list=PL4cUxeGkcC9h6OY8_8Oq6JerWqsKdAPxn&si=1UqACJg3tlrK6_FM)
 ---
-# **Resources**
+### **Resources**
 <!--
 - [**](https://codeburst.io/100-free-resources-to-learn-full-stack-web-development-5b40e0bdf5f2)[https://codeburst.io/100-free-resources-to-learn-full-stack-web-development-5b40e0bdf5f2**](https://codeburst.io/100-free-resources-to-learn-full-stack-web-development-5b40e0bdf5f2**)
 -->
@@ -124,21 +123,21 @@
 
 ---
 # **UI/UX Design**
-# My playlist
+### My playlist
 - My UI/UX playlist: [https://youtube.com/playlist?list=PL9AedAKNmDw1QirSxzAGrVU6iLiWVs6hu&si=vFqO7uSoC_gmw2RR](https://youtube.com/playlist?list=PL9AedAKNmDw1QirSxzAGrVU6iLiWVs6hu&si=vFqO7uSoC_gmw2RR)
 ---
-# Web Design
+### Web Design
 - [Pinterest](https://www.pinterest.com/dnacreativeshoppe/website-design/)
 - [CodePen](https://codepen.io/)
 - [Google Fonts](https://fonts.google.com/specimen/Poppins)
 - Color Pallette: https://coolors.co/?home
 - AI for Design: https://openui.fly.dev/ai/
 ---
-# Roadmap
+### Roadmap
 - [ANSH MEHRA COURSE cum ROADMAP](https://learnuiux.in/)
 - [https://roadmap.sh/ux-design](https://roadmap.sh/ux-design)
 ---
-# Resources
+### Resources
 - [https://www.uxlibrary.org/](https://www.uxlibrary.org/)
 - UI Design Crash Course [https://youtube.com/playlist?list=PLl0Umi92CQzUN5ocp0NgNNzj3mbmbL93e](https://youtube.com/playlist?list=PLl0Umi92CQzUN5ocp0NgNNzj3mbmbL93e)
 - Web Design 101: Free Full Course [https://youtube.com/playlist?list=PLXC_gcsKLD6n7p6tHPBxsKjN5hA_quaPI](https://youtube.com/playlist?list=PLXC_gcsKLD6n7p6tHPBxsKjN5hA_quaPI)
@@ -154,33 +153,88 @@
 
 ---
 # **Blockchain/WEB3**
-# Github Stars:
+### Github Stars:
 - https://github.com/stars/rover07/lists/blockchain
 - [https://www.summerofbitcoin.org/apply](https://www.summerofbitcoin.org/apply) 
 
 ---
+
+# Flutter
+### **Github stars
+
+[**](https://github.com/stars/rover07/lists/flutter)[https://github.com/stars/rover07/lists/flutter**](https://github.com/stars/rover07/lists/flutter**)
+
+### **Roadmaps**
+[**](https://roadmap.sh/flutter)[https://roadmap.sh/flutter**](https://roadmap.sh/flutter**)
+### Best Resources
+- https://codewithandrea.com/courses/
+- Maximillian Udemy Course
+- Rivaan Ranawat
+<!--
+# **Channels**
+
+[**Mitch Koko**](https://www.youtube.com/@createdbykoko)
+
+[**FilledStacks**](https://www.youtube.com/@FilledStacks/)
+
+[**Reso Coder**](https://www.youtube.com/@ResoCoder/videos)
+
+[**Flutter Flow**](https://www.youtube.com/@FlutterFlow/)
+
+[**Codepur**](https://youtu.be/jYoALeP3eH8?si=7KMxFivCEQtTSu2O)
+
+-->
+### **Playlists**
+
+[**Flutter Stuff(My playlist)**](https://youtube.com/playlist?list=PL9AedAKNmDw1pnLfbLap5w41r_MJg-xZS&si=sLVd-marCiKLL2cH)
+
+[**Design patterns in flutter by Rivaan**](https://youtube.com/playlist?list=PLlzmAWV2yTgB-1LdoO-9vCTgrE-1dyWKP&si=QQNpsk4oXGKePBmU)
+
+[**State Management by rivaan**](https://youtube.com/playlist?list=PLlzmAWV2yTgCYdUgHDm1VG_Vf9VkNrXcC&si=JX9dyNMep6KU6ri_)
+
+[**Flutter testing by Rivaan**](https://youtube.com/playlist?list=PLlzmAWV2yTgAW2rVT0sqRmtBXc-pmBnJG&si=0-hGoxTpAh7YJ38p)
+
+
+<!--
+# **Other resources**
+
+[**Crash Course**](https://fluttercrashcourse.seenickcode.com/)
+
+[**](https://app.flutterflow.io/perks)[https://app.flutterflow.io/perks**](https://app.flutterflow.io/perks**)
+
+[**](https://flutter.dev/learn)[https://flutter.dev/learn**](https://flutter.dev/learn**)
+
+[**](https://medium.flutterdevs.com/)[https://medium.flutterdevs.com/**](https://medium.flutterdevs.com/**)
+
+[**](https://fireship.io/tags/flutter/)[https://fireship.io/tags/flutter/**](https://fireship.io/tags/flutter/**)
+
+[**](https://ajinasokan.com/posts/flutter-zero-to-production/#flutter-or-no-flutter)[https://ajinasokan.com/posts/flutter-zero-to-production/#flutter-or-no-flutter**](https://ajinasokan.com/posts/flutter-zero-to-production/#flutter-or-no-flutter**)
+
+-->
+
+---
 # **DevOps + Linux**
 
-# Github Stars: 
+### Github Stars: 
 - https://github.com/stars/rover07/lists/devops
 - [free bootcamp train with shubham](https://youtube.com/playlist?list=PLlfy9GnSVerQ4bsDWsPcAkzttrI38Pnoj&si=7cUfn4NSl2JifwDF)
 
 ---
-# **Roadmaps**
+### **Roadmaps**
 - [**Kunal**](https://github.com/WeMakeDevs/roadmaps/tree/main/DevOps)
 - [**Roadmap.sh**](https://roadmap.sh/devops)
 - [**DevOps roadmap by Kubesimplify**](https://www.youtube.com/watch?v=4yRAeXAAHtM)
 - [MlOps Roadmap+resources](https://www.youtube.com/watch?v=O5USfiQ79So&list=WL&index=107&t=70s)
 ---
-# **For Claiming certificates on the go**
+### **For Claiming certificates on the go**
 - [**](https://kodekloud.com/)[https://kodekloud.com/**](https://kodekloud.com/**)
 ---
-# **Cloud Native**
+### **Cloud Native**
 - [**My Playlist of CNCF**](https://youtube.com/playlist?list=PL9AedAKNmDw03ZDQwkdYSur10lzPS9OPX&si=mD4B0kS-8x9Rt6py)
 - [Dive Into Cloud Native - Containers, Kubernetes and the KCNA Certification](https://youtube.com/playlist?list=PLeIwMz0ukkhHnQEO37Z5ZQHuSTRU60CQQ&si=FknRjRdorcYSmBPq)
 - [KCNA by Kaiwalya](- [**Link for Playlist**](https://youtube.com/playlist?list=PL9v7SxjoNf_w0vx2hSe7UkeIMlKcvQTkx&si=WLoK-v0Bhc0IKuqZ))
 
-# **Tabs/Playlists**
+### **Tabs/Playlists**
 - [**Abhishek Veermala DevOps course**](https://youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa&si=WlxHhKLdlKlQ6s0r)
 - [**Version Ctrl Dawg**](https://youtube.com/playlist?list=PL9AedAKNmDw0V1DS1oAOr-2ccgVyBJk57&si=OHFF6PQ50eQgPUCP)
 - [**Real-time projects for DevOps and Cloud**](https://youtube.com/playlist?list=PLdpzxOOAlwvLm5lWlYctUnwaFRIO2Io_5&si=BbENX4ujHVXZhSLD)
@@ -194,23 +248,23 @@
 [**DevOps tools by NANA**](https://youtube.com/playlist?list=PLy7NrYWoggjxKDRWLqkd4Kbt84XEerHhB&si=0tppJ8jQhEX36xrq)
  [**Kunal DevOps Bootcamp**](https://youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&si=m_rEDKGmkrWR55ey)
 -->
-# **TOOLS**
+### **TOOLS**
 
 - [**](https://kodekloud.com/playgrounds/)[https://kodekloud.com/playgrounds/**](https://kodekloud.com/playgrounds/**)
 - [https://killercoda.com/**](https://killercoda.com/**)
 
-# **Other Learning Resources**
+### **Other Learning Resources**
 - [**](https://thedevops.guide/)[https://thedevops.guide/**](https://thedevops.guide/**)
 - [**](https://devopscube.com/list-of-devops-blogs-and-resources/)[https://devopscube.com/list-of-devops-blogs-and-resources/**](https://devopscube.com/list-of-devops-blogs-and-resources/**)
 - [**](https://learntocloud.guide/docs/Welcome)[https://learntocloud.guide/docs/Welcome**](https://learntocloud.guide/docs/Welcome**)
 
-# **KodeKloud Courses**
+### **KodeKloud Courses**
 
 [**Hacksnation for further course updates**](https://hacksnation.com/d/11593-kodekloud-courses-available/44)
 
 ---
 # **Linux Stuffs**
-## Playlists
+### Playlists
 - [Linux masterclass by Apurv](https://youtube.com/playlist?list=PL2kSRH_DmWVZp_cu6MMPWkgYh7GZVFS6i&si=v9fBhzklwgtVMC-t)
 - [Akshay Linux workshop](https://www.notion.so/Linux-77-1-93ff34cbc1f44185976d379552323564)
 - [My Linux+Shell Scripting Playlist]([**Linux+Shell scripting**](https://youtube.com/playlist?list=PL9AedAKNmDw1Zhz4N-xUF5BiUoeMNWtOg&si=BF6KyUftbx_qtoF-))

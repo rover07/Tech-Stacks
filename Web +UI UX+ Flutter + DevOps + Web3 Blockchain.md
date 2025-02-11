@@ -1,7 +1,11 @@
-# **Web Dev**
+```
+These are things I want to do next, these are like a **Queue** for things to add in web tabs.
+```
+
+# **Web Dev** 
 
 ### Github Stars: 
-	https://github.com/stars/rover07/lists/webd
+- https://github.com/stars/rover07/lists/webd
 ### Playlist
 - [WebD playlist khud banaya ye](https://www.youtube.com/playlist?list=PL9AedAKNmDw0K_H0uA8BocnmQS5qdlkho)
 
@@ -15,7 +19,9 @@
 - [JS Interview Prep (Piyush Garg)](https://youtube.com/playlist?list=PLinedj3B30sDi0keEOQU3n5p3Op28eN2e&si=UMNLokvgdXjzZg5-)
  - [Namaste JS](https://youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&si=9c5ibpiTALZWtU-T)
  - [Namaste JS season 2](https://youtube.com/playlist?list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ60aX&si=atADHXqWtJ9eA72M)
-	- [Namaste JS Notes](https://alok722.github.io/namaste-javascript-notes/**](https://alok722.github.io/namaste-javascript-notes/) -->
+	- [Namaste JS Notes](https://alok722.github.io/namaste-javascript-notes/**](https://alok722.github.io/namaste-javascript-notes/) 
+- Namaste React
+- Namaste Node
 - [SASS Tutorial (Build Your Own CSS Library)](https://youtube.com/playlist?list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb&si=h2YnMIFcskwR5wmN)
 - [HTMX by Net Ninjas](https://youtube.com/playlist?list=PL4cUxeGkcC9gnEsXRqdY4e_xNy9GK7aQR&si=T9rRWw0G7boNd8zz)
 	- [Single Page App using HTMX](https://youtube.com/playlist?list=PL4cUxeGkcC9gGiQQoW8HcyrQJdzTEFtmP&si=ck6bGst0tGKPgfec)
@@ -54,7 +60,6 @@
 - https://apivault.dev/
 ---
 ### DOCS
-- https://react.dev/learn
 - https://create-react-app.dev/docs/installing-a-dependency/
 - https://nextjs.org/
 - https://expressjs.com/
@@ -156,6 +161,18 @@
 ### Github Stars:
 - https://github.com/stars/rover07/lists/blockchain
 - [https://www.summerofbitcoin.org/apply](https://www.summerofbitcoin.org/apply) 
+
+---
+
+# React Native
+### **Courses**
+- Maximilian
+	- https://www.udemy.com/share/101Wau3@M3OVvDK4uHRcy3HmCjAEvvlzxU8W6lcPwSbsMRdYgTR4A9NuciCTwzC0x7cl-IDlCg==/
+- Udemy(Stephen Grider)
+	- https://www.udemy.com/share/101Wbw3@G1zzoWyp1qnuxf2uVUgMRyXBJKvgBgoEs_ewZIQoL_D2Xm5BvfGLdFC3UTy3MtDlkQ==/
+	- Advanced: https://www.udemy.com/share/1013RI3@gilk-4C9hyAqctBFt_1yYHUPZJxiOAc2kdbcLIkDzkMIcTyRvTlyI7aeNQO_Lj8aeA==/
+- Andrew Neagoi ZTM
+	- https://zerotomastery.io/courses/learn-react-native/
 
 ---
 

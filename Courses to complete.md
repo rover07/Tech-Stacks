@@ -33,6 +33,7 @@
 	- https://www.coursera.org/professional-certificates/google-ux-design
 	- https://www.ibm.com/design/thinking/page/courses/Practitioner
 - DevOps/Cloud/AWS
+	- https://zerotomastery.io/courses/devops-bootcamp/
 	- https://www.coursera.org/learn/aws-cloud-practitioner-essentials
 	- https://www.coursera.org/specializations/aws-fundamentals
 	- https://www.coursera.org/learn/aws-cloud-technical-essentials

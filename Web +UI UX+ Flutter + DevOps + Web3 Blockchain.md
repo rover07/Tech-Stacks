@@ -135,6 +135,8 @@ These are things I want to do next, these are like a **Queue** for things to add
 - [Pinterest](https://www.pinterest.com/dnacreativeshoppe/website-design/)
 - [CodePen](https://codepen.io/)
 - [Google Fonts](https://fonts.google.com/specimen/Poppins)
+- https://stylestage.dev/
+- https://moderncss.dev/
 - Color Pallette: https://coolors.co/?home
 - AI for Design: https://openui.fly.dev/ai/
 ---

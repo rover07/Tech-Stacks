@@ -166,14 +166,17 @@ These are things I want to do next, these are like a **Queue** for things to add
 
 # React Native
 ### **Courses**
+- Coursera
+	- https://www.coursera.org/specializations/meta-react-native
 - Maximilian
 	- https://www.udemy.com/share/101Wau3@M3OVvDK4uHRcy3HmCjAEvvlzxU8W6lcPwSbsMRdYgTR4A9NuciCTwzC0x7cl-IDlCg==/
+- Andrew Neagoi ZTM
+	- https://zerotomastery.io/courses/learn-react-native/
+- React
+	- https://www.coursera.org/specializations/meta-react-native
 - Udemy(Stephen Grider)
 	- https://www.udemy.com/share/101Wbw3@G1zzoWyp1qnuxf2uVUgMRyXBJKvgBgoEs_ewZIQoL_D2Xm5BvfGLdFC3UTy3MtDlkQ==/
 	- Advanced: https://www.udemy.com/share/1013RI3@gilk-4C9hyAqctBFt_1yYHUPZJxiOAc2kdbcLIkDzkMIcTyRvTlyI7aeNQO_Lj8aeA==/
-- Andrew Neagoi ZTM
-	- https://zerotomastery.io/courses/learn-react-native/
-
 ---
 
 # Flutter

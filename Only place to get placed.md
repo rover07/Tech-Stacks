@@ -123,6 +123,3 @@ I have only included stuffs important to me and rest of the stuffs are in Gdocs:
 - [https://confs.tech/](https://confs.tech/)
 - https://www.eventbrite.com/d/india--pune/events/
 ----
-## Ambassador/Paid Programs for Students:
-- Ambassador Programs: https://github.com/rover07/Ambassador-Programs
-- Open Source Programs: https://github.com/rover07/Open-Src-Programs

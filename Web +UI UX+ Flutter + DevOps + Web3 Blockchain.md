@@ -8,6 +8,9 @@ These are things I want to do next, these are like a **Queue** for things to add
 - https://github.com/stars/rover07/lists/webd
 ### Playlist
 - [WebD playlist khud banaya ye](https://www.youtube.com/playlist?list=PL9AedAKNmDw0K_H0uA8BocnmQS5qdlkho)
+### Courses
+- https://www.coursera.org/professional-certificates/meta-front-end-developer
+- https://www.coursera.org/professional-certificates/backend-javascript-developer
 
 <!-- 
 - Piyush Garg
@@ -30,8 +33,6 @@ These are things I want to do next, these are like a **Queue** for things to add
 - [Chrome Extensions using REACT](https://youtube.com/playlist?list=PLBS1L3Ug2VVods9GnWbJc__STt9VnrJ9Z&si=TGJ-RqZVdeqXlnmG)
 - [GNOME extensions development](https://youtube.com/playlist?list=PLr3kuDAFECjZhW-p56BoVB7SubdUHBVQT&si=b3Vm_iYHQDjf7Qih)
 - [GNOME extensions development another video](https://www.youtube.com/watch?v=Y6zpDF_Ug50&t=66s)
-- [React Typescript tutorial for beginners](https://youtube.com/playlist?list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK&si=qgMVEEd-Z48OIEU3)
-- [NO BS TS](https://youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n&si=x_JwNvIHkUNinwB8) 
 <!--
 -  [Flask By TechWithTim](https://youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX&si=QeWpPnlITrKq5HpS)
 -  [Flask by krish nayak](https://youtube.com/playlist?list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc&si=RfdLCujjkdzQs7Rv) 
